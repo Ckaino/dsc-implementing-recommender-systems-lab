@@ -1,6 +1,7 @@
 
 # Implementing Recommender Systems - Lab
 
+
 ## Introduction
 
 In this lab, you'll practice creating a recommender system model using `surprise`. You'll also get the chance to create a more complete recommender system pipeline to obtain the top recommendations for a specific user.
